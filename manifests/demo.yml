@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: spinnaker-demo-config
+  name: spinnaker-demo-config-testing
   namespace: default
 data:
   NEW_FEATURE: "true"
